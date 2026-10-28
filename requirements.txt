@@ -1,0 +1,10 @@
+openai
+google-generativeai
+pypdf
+numpy
+ipywidgets
+sentence-transformers
+transformers
+accelerate
+torch
+jupyter
